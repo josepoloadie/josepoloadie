@@ -1,26 +1,13 @@
-<div align="center">
-  
-  <p>JOSE POLO</p>
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+<h1 align="center">Hola 👋, Soy Jose Polo</h1>
+<h3 align="center">Apasionado por la tecnología y el desarrollo de software. Me especializo en aplicaciones web y tengo experiencia en múltiples tecnologías front-end y back-end. Siempre buscando aprender y mejorar mis habilidades.</h3>
 
-  <P>Apasionado por la tecnología y el desarrollo de software. Me especializo en aplicaciones web y tengo experiencia en múltiples tecnologías front-end y back-end. Siempre buscando aprender y mejorar mis habilidades.<P>
-        
-  <h3>Algunos de mis proyectos 👾</h3>
-<Br>
-  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fernandoiosono&repo=HENRYPF)](https://github.com/fernandoiosono/HENRYPF)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=josepoloadie&repo=PI-Videogames-main)](https://github.com/josepoloadie/videoGamesPI)
+- 📫 How to reach me **jpolo990206@gmail.com**
 
-<Br>
-<h3 align="center"> ¡Contáctame! 📬</h3>
-<Br>
-<p align="center">
-<a href="https://www.linkedin.com/in/josepoloadie/" target="blank">
-  <img align="center" src="https://img.shields.io/badge/Jose Polo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  
-  <a href="mailto:jpolo990206@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/josepoloadie" target="blank"><img align="center" src="https://img.shields.io/badge/josepoloadie-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/josepoloadie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josepoloadie" height="30" width="40" /></a>
 </p>
-<Br>
-<h3>Thank You 🌼 </h3>
-<Br>
-</div>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
