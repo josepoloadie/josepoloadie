@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jose Polo</h1>
+<h1 align="center">Hola 👋, Soy Jose Polo</h1>
 <h3 align="center">Apasionado por la tecnología y el desarrollo de software. Me especializo en aplicaciones web y tengo experiencia en múltiples tecnologías front-end y back-end. Siempre buscando aprender y mejorar mis habilidades.</h3>
 
 - 👨‍💻 Link de mi repo [https://github.com/josepoloadie](https://github.com/josepoloadie)
